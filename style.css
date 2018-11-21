@@ -1,0 +1,12 @@
+body{
+	background-image: url("space.jpg");
+}
+
+.intro{
+	color: white;
+
+}
+#mainHeading{
+	font-family: sans-serif;
+	color: white;
+}
